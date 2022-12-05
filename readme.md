@@ -1,7 +1,6 @@
 docker бэкенда
- ```
 https://hub.docker.com/u/elissgood
-```
+
 
 Репозиторий бэкенда
 https://gitlab.com/oleg_svo_bus/svo_backend
