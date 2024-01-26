@@ -18,6 +18,9 @@ yarn lint
 
 Работа алгоритма представлена в папке alghorytm в файле svoGrapth
 
+## Итог
+
+Команда заняла 3-е место
 
 ## Команда
 [Артем Зимин - алгоритм + фронтенд](http://t.me/Chel_Buerak) </br>
@@ -25,3 +28,7 @@ yarn lint
 [Федор Родин - фронтенд](http://t.me/ffeeejj) </br>
 [Илья Елисеев - бекенд](http://t.me/Ilyxakamaz) </br>
 [Дмитрий Попов - бекенд](http://t.me/dmitriii10) </br>
+
+## Диплом
+![](https://github.com/CepbluKot/avaihack/blob/master/diplom.jpg) </br>
+![](https://github.com/CepbluKot/avaihack/blob/master/leaderboard.jpg)
